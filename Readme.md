@@ -2,4 +2,4 @@ Hola
 
 soy un clon
 
-Preparando un push
+Preparando un pull
